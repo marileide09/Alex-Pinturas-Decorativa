@@ -128,8 +128,8 @@ nav ul button:hover {
 .header-block .text h2 {
   max-width: 170px;
   font-size: 20px;
-  color: white
-  text-align right;
+  color: white;
+  
   transform: translateX(-20px);
   transition: transform 0.4s;
 }
@@ -212,7 +212,7 @@ section .card-item {
   padding-top: 4%;
 }
 
-.madeira4-image {
+.pedra4-image {
   width: 24%;
   height: 49%;
   padding-top: 4%;
